@@ -2,8 +2,10 @@
 
 In this repo, a verys basic python project is setup to help you start quickly with a good setup.
 It will the following:
+
 - flake8
 - requirements.txt
+
 The focus for additions is on useful things that are often forgotten when starting a new project.
 
 ## Manual steps:
