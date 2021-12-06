@@ -1,7 +1,7 @@
 # The Python Blueprint Project
 
 In this repo, a verys basic python project is setup to help you start quickly with a good setup.
-It will the following:
+It will include the following:
 
 - flake8
 - requirements.txt
